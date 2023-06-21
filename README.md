@@ -1,7 +1,7 @@
+[![MasterHead](https://media.tenor.com/y2XmDlOWUGMAAAAd/howl.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aziz Sami</h1>
 <h3 align="center">A passionate desktop/mobile apps engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1tapsmachine" alt="1tapsmachine" /></a> </p>
 
 - 🔭 I’m currently working on [a gift card selling facility]([-])
 
