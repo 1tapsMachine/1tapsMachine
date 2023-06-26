@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a gift card selling facility]([-])
 
-- 💬 Ask me about **C , PHP , PYTHON , javaScript**
+- 💬 Ask me about **C++, C , PHP , PYTHON , TypeScript , ASP.NET , javaScript**
 
 - 📫 Reach me on discord **prometheus_iv**
 
