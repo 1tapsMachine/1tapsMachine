@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C++, C , PHP , PYTHON , TypeScript , ASP.NET , javaScript**
 
-- 📫 Reach me on discord **prometheus_iv**
+- 📫 Reach me on discord **v8_twinturbo**
 
 - ⚡ Fun fact **I was a cs go signed player a year ago**
 
