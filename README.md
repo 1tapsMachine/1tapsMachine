@@ -3,7 +3,7 @@
 <h3 align="center">A passionate desktop/mobile apps engineer</h3>
 
 
-- 🔭 I’m currently working on [a gift card selling facility]([-])
+- 🔭 I’m currently working on [a 2d game and a project managment web app]([https://github.com/1tapsMachine/project_manager])
 
 - 💬 Ask me about **C++, C , PHP , PYTHON , TypeScript , ASP.NET , javaScript**
 
