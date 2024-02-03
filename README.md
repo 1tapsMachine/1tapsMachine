@@ -1,4 +1,4 @@
-[![1tapsMachine's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=1tapsMachine&country_code=france)](https://github.com/1tapsMachine/github-readme-ranking)
+
 
 # 💫 About Me:
 <br><br>    🔭 I’m currently working on a 2d game and a project managment web app<br><br>    💬 Ask me about C++, C , PHP , PYTHON , TypeScript , ASP.NET , javaScript<br><br>    📫 Reach me on discord air_strike<br><br>    ⚡ Fun fact I was a cs go signed player a year ago<br>
@@ -13,6 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=1tapsMachine&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=1tapsMachine&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1tapsMachine&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![1tapsMachine's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=1tapsMachine&country_code=france)](https://github.com/1tapsMachine/github-readme-ranking)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=1tapsMachine&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
