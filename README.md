@@ -1,3 +1,5 @@
+[![1tapsMachine's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=1tapsMachine&country_code=france)](https://github.com/1tapsMachine/github-readme-ranking)
+
 # 💫 About Me:
 <br><br>    🔭 I’m currently working on a 2d game and a project managment web app<br><br>    💬 Ask me about C++, C , PHP , PYTHON , TypeScript , ASP.NET , javaScript<br><br>    📫 Reach me on discord air_strike<br><br>    ⚡ Fun fact I was a cs go signed player a year ago<br>
 
