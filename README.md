@@ -13,7 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=1tapsMachine&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=1tapsMachine&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1tapsMachine&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-[![1tapsMachine's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=1tapsMachine&country_code=Morocco)](https://github.com/1tapsMachine/github-readme-ranking)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=1tapsMachine&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
